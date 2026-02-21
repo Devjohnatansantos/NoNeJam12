@@ -30,6 +30,7 @@
     {"id":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},},
     {"id":{"name":"obj_espinhos","path":"objects/obj_espinhos/obj_espinhos.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_programador","path":"objects/obj_programador/obj_programador.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"spr_bandeira","path":"sprites/spr_bandeira/spr_bandeira.yy",},},
