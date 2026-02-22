@@ -39,7 +39,11 @@ if (place_meeting(x, y, obj_bandeira))
 }
 
 
-
+if (place_meeting(x, y, obj_chao))
+{
+	y -= 2;
+	
+}
 
 
 

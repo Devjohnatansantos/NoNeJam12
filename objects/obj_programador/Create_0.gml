@@ -24,7 +24,7 @@ pega_id = function()
 
 colocar_caixa = function()
 {
-	if (mouse_check_button_pressed(mb_right) && global.caixas >= 1)
+	if (mouse_check_button_pressed(mb_right) && global.caixas >= 1 && !position_meeting(mouse_x, mouse_y, obj_player))
 	{
 		instance_create_layer(mouse_x - 5, mouse_y - 5, layer, obj_chao);
 		global.caixas--;
