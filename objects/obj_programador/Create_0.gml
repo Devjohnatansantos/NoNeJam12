@@ -11,7 +11,7 @@ pega_id = function()
 		{
 			alvo = _id;
 			
-			if (alvo != noone)
+			if (alvo != noone && alvo != obj_player.id)
 			{
 				instance_destroy(alvo);
 			}
