@@ -1,5 +1,5 @@
 alvo = noone;
-
+alvos = noone;
 
 pega_id = function()
 {
