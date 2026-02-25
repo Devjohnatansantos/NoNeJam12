@@ -39,7 +39,7 @@ if (place_meeting(x, y, obj_bandeira))
 }
 
 
-if (place_meeting(x, y, obj_chao))
+if (place_meeting(x, y, obj_chao) && !place_meeting(x, y, obj_chao_arrastavel))
 {
 	y -= 2;
 	

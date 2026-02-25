@@ -6,6 +6,10 @@ if (arrastando == true)
 	y = mouse_y;
 	
 }
+		
+
+	
+
 if (mouse_check_button_released(mb_middle))
 { 
 	arrastando = false;
