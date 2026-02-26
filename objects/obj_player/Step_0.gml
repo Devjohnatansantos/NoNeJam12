@@ -34,7 +34,14 @@ if (place_meeting(x, y + 1, obj_espinhos))
 
 if (place_meeting(x, y, obj_bandeira))
 {
+		if (!room_exists(room_next(room)))
+	{
+		game_end()
+	}
+	else
+	{
 	room_goto_next();
+	}
 	
 }
 
