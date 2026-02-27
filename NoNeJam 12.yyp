@@ -77,7 +77,6 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room14","path":"rooms/Room14/Room14.yy",},},
     {"roomId":{"name":"Room1_1","path":"rooms/Room1_1/Room1_1.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
@@ -92,6 +91,7 @@
     {"roomId":{"name":"Room11","path":"rooms/Room11/Room11.yy",},},
     {"roomId":{"name":"Room12","path":"rooms/Room12/Room12.yy",},},
     {"roomId":{"name":"Room13","path":"rooms/Room13/Room13.yy",},},
+    {"roomId":{"name":"Room14","path":"rooms/Room14/Room14.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
