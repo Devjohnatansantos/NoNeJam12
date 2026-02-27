@@ -44,6 +44,7 @@
     {"id":{"name":"obj_programador","path":"objects/obj_programador/obj_programador.yy",},},
     {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},},
     {"id":{"name":"obj_text2","path":"objects/obj_text2/obj_text2.yy",},},
+    {"id":{"name":"obj_text3","path":"objects/obj_text3/obj_text3.yy",},},
     {"id":{"name":"Room1_1","path":"rooms/Room1_1/Room1_1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room10","path":"rooms/Room10/Room10.yy",},},
